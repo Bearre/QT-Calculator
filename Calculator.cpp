@@ -1,3 +1,4 @@
+#include <QtWidgets>
 #include "Calculator.h"
 
 Calculator::Calculator(QWidget* pwgt = nullptr) : QWidget(pwgt)
